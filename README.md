@@ -1,41 +1,15 @@
-## Welcome to GitHub Pages
+## 文章列表
 
-You can use the [editor on GitHub](https://github.com/chainal/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 2017年5月
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[关于博客](https://chainal.github.io/blog/other/关于)
 
-### Markdown
+初始化`Github Pages`时自动生成的文章，主要是`Github Pages`对自己的一些介绍和推广，同时介绍了简单的`MarkDown`语法，这些语法简明扼要，功能上对于日常发布文章已足够使用。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chainal/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### Other Article
+---
 
 [新文章](https://chainal.github.io/blog/201705/新文章)
+
+处于编辑中
+
+---
